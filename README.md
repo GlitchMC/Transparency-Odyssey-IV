@@ -1,4 +1,4 @@
-# Transparency-Odyssey-U
+# Transparency-Odyssey-IV
 
 A text patch for Etrian Odyssey IV: Legends of the Titan, which alters text on skills, items, etc. in order to inform the player of important numbers and mechanics such as damage modifiers or the importance of certain player stats.
 
