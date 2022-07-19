@@ -12,6 +12,7 @@ Done:
 ToDo:
  - explain diminishing returns somewhere???
  - comb through and make sure all terminology is consistent through the game (and across other games???)
+ - optimize skill texts to minimize text movement during skill level up
 
 &nbsp;
 
